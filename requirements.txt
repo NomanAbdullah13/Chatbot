@@ -1,0 +1,9 @@
+# requirements.txt (install these first)
+streamlit
+pdf2image
+pytesseract
+sentence-transformers
+openai
+faiss-cpu
+Pillow
+python-dotenv
